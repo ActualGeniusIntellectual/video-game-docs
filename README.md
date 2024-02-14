@@ -1,6 +1,6 @@
 # Game Concept Document
 
-## Working Title: Death By Communist Subversion
+## Working Title: Death By AI: A Post Post-Modern Odyssey
 
 ### 1. Overview:
 
@@ -14,6 +14,7 @@
 Platform: PC (Steam)
 
 #### Target Audience:
+
 - Gamers aged 16+
 - fans of fantasy RPGs
 - story-driven game enthusiasts
@@ -21,7 +22,18 @@ Platform: PC (Steam)
 
 ### 2. Game Description:
 
-TODO: Write a brief description of the game, including the core gameplay mechanics, setting, and story.
+#### Theme:
+
+- AI
+- Post-Post-Modernism
+- Existentialism
+- Future of Humanity
+- Transhumanism
+- Political Critique
+
+#### Description:
+
+TODO
 
 ### 3. Setting and World:
 
